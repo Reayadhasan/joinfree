@@ -1,0 +1,1 @@
+const offerLink = "http://sc-static.net.adit.pw/SiIfGCdkjS";
